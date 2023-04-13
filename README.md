@@ -1,16 +1,47 @@
-### Hi there 👋
+<div id="header" align="center">
+    <h1>Hi there 👋</h1>
+    <h3>I`m Andrei, starter Java developer 💻</h3>
+</div>
 
-<!--
-**Labisy/Labisy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<div id="link" align="center">
+    <a href="https://www.instagram.com/make.slob">
+        <img src="https://img.shields.io/badge/Instagram-ab4e52?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://vk.com/make.slob">
+        <img src="https://img.shields.io/badge/vk-ab4e52?style=for-the-badge&logo=vk&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://t.me/Labisys">
+        <img src="https://img.shields.io/badge/Telegram-ab4e52?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn"/>
+    </a>
+</div>
 
-Here are some ideas to get you started:
+## About me 📝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Development of a joint transportation startup. 🚌
+- Teach the basics of the java language. 👨‍🏫
+- Started studying QA. 🔍
+
+---
+## Languages and tool
+<div id="lang">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="java" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title="spring" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="postgreSql" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="mysql" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="git" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="gitHub" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="mysql" width="40" height="40"/>
+</div>
+
+---
+## stats 📃
+<div id="stats" align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Labisy&theme=aura_dark"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Labisy&theme=aura_dark"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Labisy&theme=aura_dark"/>
+</div> 
+  
+          
+          
+          
