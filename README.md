@@ -22,9 +22,9 @@ I took JavaRush courses, Epam course "Java development".\
 Experience in the implementation and protection and promotion of the startup "Dokin joint travel service", you can view the android application on GitHub.\
 The experience of a methodologist, the creation of a course "Computer Graphics" in JAVA at the Utkin Russian State Technical University with implementations in JavaFX and Swing.\
 Creating your own course for learning Java development.\
-Started studying QA.\
+Middle QA.\
 Hard skills:
-- Junit 4.5 + Java: I write tests using Maven, Gradle.
+- Junit 4,5 + Java: I write tests using Maven, Gradle.
 - Java Core: Basics of the java language
 - Collection: Using Java util Collection - Map, List, Set, Queue
 - Spring: development of projects using a framework with Spring Boot, Spring web, Spring Data.
@@ -35,6 +35,10 @@ Hard skills:
 - SQL: MYSQL, POSGRESQL: (SELECT, JOIN, UPDATE), creating views, stored procedures, triggers, cursors.
 - JDK 8,11,17: worked with migrations of jdk versions.
 - GIT: GitHub, GitLab.
+- Selenide
+- Selenium
+- Rest Assured
+- Mockito
 Soft Skills:
 - I work well in a team.
 - Quickly adapt to different situations.
