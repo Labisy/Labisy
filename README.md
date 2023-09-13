@@ -39,6 +39,7 @@ Hard skills:
 - Selenium
 - Rest Assured
 - Mockito
+  
 Soft Skills:
 - I work well in a team.
 - Quickly adapt to different situations.
